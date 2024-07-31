@@ -1,13 +1,13 @@
 # My portfolio
 
-I am ben12mwaniki and this repo forms the bases of my software engineering portfolio available [here](https://ben12mwaniki.github.io/my-portfolio/). The portfolio showcases my developer journey highlighting my experiences, projects and continued learning.
+I am ben12mwaniki and this repo hosts code for my software engineering portfolio available [here](https://ben12mwaniki.github.io/my-portfolio/). The portfolio showcases my developer journey highlighting my experiences, projects and continued learning.
 
 This repo evolved from a template by ryanfitzgerald available [here](https://github.com/RyanFitzgerald/devportfolio).
 
 ## Features
 
 * Gulp ready (compiles Sass and minifies JS)
-* Sass ready with lots of commenting
+* Sass ready
 * Static yet fully responsive
 * Comes with Bootstrap grid system
 * Easy colour changes can be done through simple variable edits
