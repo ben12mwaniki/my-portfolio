@@ -1,6 +1,6 @@
 # My portfolio
 
-I am ben12mwaniki and this repo hosts code for my software engineering portfolio available [here](https://ben12mwaniki.github.io/my-portfolio/). The portfolio showcases my developer journey highlighting my experiences, projects and continued learning.
+I am ben12mwaniki and this repo hosts code for my software engineering portfolio available [here](http://ben12mwaniki.me/my-portfolio/). The portfolio showcases my developer journey highlighting my experiences, projects and continued learning.
 
 This repo evolved from a template by ryanfitzgerald available [here](https://github.com/RyanFitzgerald/devportfolio).
 
