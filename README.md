@@ -10,7 +10,7 @@ This repo evolved from a template by ryanfitzgerald available [here](https://git
 * Sass ready
 * Static and fully responsive
 * Comes with Bootstrap grid system
-* Easy colour changes can be done through simple variable edits
+* Easy colour changes can be done via simple variable edits
 
 
 ## Setup and Configuration
